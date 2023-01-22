@@ -1,0 +1,21 @@
+{
+    "name": "lgjs/searchengine",
+    "description": "Generate random password of a given length",
+    "type": "library",
+    "require": {
+      "php": ">=8.1.10"
+    },
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+          "Engine\\": "src/RandomPassword/"
+        }
+    },
+    "authors": [
+      {
+        "name": "liamgen.js",
+        "email": "liamgen.js@gmail.com"
+      }
+    ],
+    "minimum-stability": "dev"
+  }
