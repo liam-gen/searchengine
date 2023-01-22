@@ -1,6 +1,6 @@
 {
     "name": "lgjs/searchengine",
-    "description": "Generate random password of a given length",
+    "description": "Search with Google or Duckduckgo",
     "type": "library",
     "require": {
       "php": ">=8.1.10"
@@ -17,5 +17,5 @@
         "email": "liamgen.js@gmail.com"
       }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
   }
