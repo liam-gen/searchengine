@@ -15,8 +15,6 @@
 
 namespace Search;
 
-require_once("EnginesList.php");
-
 class Engine
 {
     public $engine = Null;

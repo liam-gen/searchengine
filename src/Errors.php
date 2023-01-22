@@ -13,7 +13,7 @@
  * @version    1.0.0
 */
 
-namespace Search;
+namespace Search\Errors;
 
 define("SEARCH_API_NOT_VALID", 400);
 define("SEARCH_TOO_MANY_REQUESTS", 429);

@@ -13,7 +13,7 @@
  * @version    1.0.0
 */
 
-namespace Search;
+namespace Search\Engines;
 
 class Engines{
     public $engines = array(
