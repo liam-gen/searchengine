@@ -13,6 +13,8 @@
  * @version    1.0.0
 */
 
+namespace Search;
+
 require_once("EnginesList.php");
 
 class Engine

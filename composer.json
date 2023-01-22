@@ -8,7 +8,7 @@
     "license": "proprietary",
     "autoload": {
         "psr-4": {
-          "Engine\\": "src/RandomPassword/"
+          "Engine\\": "src/"
         }
     },
     "authors": [

@@ -13,6 +13,8 @@
  * @version    1.0.0
 */
 
+namespace Search;
+
 class Engines{
     public $engines = array(
         "google" => array(
