@@ -9,7 +9,7 @@
     "license": "proprietary",
     "autoload": {
         "psr-4": {
-          "Engine\\": "src/"
+          "Search\\": "src/"
         }
     },
     "authors": [
